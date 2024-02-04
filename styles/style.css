@@ -133,10 +133,6 @@ span.aligned-text.aligned-text_right {
   padding: 12px 32px 11px 31px;
 }
 
-.bet-button a {
-  text-decoration: none;
-}
-
 .lots {
   padding: 179px 24px 146px;
 }
@@ -241,7 +237,7 @@ span.aligned-text.aligned-text_right {
   margin: auto;
  }
 
-.about__logo-image{
+.about__logo-image {
   width: 148px;
  }
 
