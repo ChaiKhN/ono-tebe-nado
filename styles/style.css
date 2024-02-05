@@ -156,7 +156,7 @@ span.aligned-text.aligned-text_right {
 
 .lots__card-list-item {
   width: 334px;
-  min-height: 250px;
+  min-height: 563px;
   flex-grow: 1;
 }
 
@@ -198,22 +198,20 @@ span.aligned-text.aligned-text_right {
   padding-left: 40px;
 }
 
-.card_type_film {
-  background-image: url(../images/card-lot-01.jpg);
+.card_type {
   background-size: cover;
   background-position: center;
+}
+.card_type_film {
+  background-image: url(../images/card-lot-01.jpg);
 }
 
 .card_type_book {
   background-image: url(../images/card-lot-02.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .card_type_picture {
   background-image: url(../images/card-lot-03.jpg);
-  background-size: cover;
-  background-position: center;
 }
 
 .about {
